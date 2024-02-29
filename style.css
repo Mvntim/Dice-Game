@@ -102,7 +102,7 @@ main {
 /* ABSOLUTE POSITIONED ELEMENTS */
 .btn {
   position: absolute;
-  left: 50%;
+  left: 50.1%;
   transform: translateX(-50%);
   color: #444;
   background: none;
